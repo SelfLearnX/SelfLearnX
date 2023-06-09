@@ -1,4 +1,5 @@
-### Self-paced learning is a project designed to provide individuals with the flexibility and autonomy to learn at their own pace. The project aims to empower learners by giving them control over their learning journey, allowing them to set their own goals, determine the pace of their progress, and access learning resources on-demand.
+### 
+Self-paced learning is a project designed to provide individuals with the flexibility and autonomy to learn at their own pace. The project aims to empower learners by giving them control over their learning journey, allowing them to set their own goals, determine the pace of their progress, and access learning resources on-demand.
 
 The project will leverage digital platforms and technology to create a dynamic and interactive learning environment. It will offer a wide range of educational materials, including text-based resources, video lectures, interactive tutorials, quizzes, and assessments. Learners will have the freedom to choose the topics they want to study, explore different learning paths, and navigate through the content based on their personal preferences and learning styles.
 
